@@ -1,11 +1,11 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Ninh (Weans) <img src="https://github.com/Hole30601/Hole30601.github.io/blob/main/img/gif/gifwaifu.gif?raw=true" alt="weanshhn" width="40" height="40"/></h1>
-<h3 align="center">I am not a Developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=weanshhn&label=Profile%20views&color=0e75b6&style=flat" alt="weanshhn" /> </p>
+<h1 align="center">Hi 👋, I'm Hoang (Hole) <img src="https://github.com/Hole30601/Hole30601.github.io/blob/main/img/gif/gifwaifu.gif?raw=true" alt="hole30601" width="40" height="40"/></h1>
+<h3 align="center">I don’t know how to code</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hole30601&label=Profile%20views&color=0e75b6&style=flat" alt="hole30601" /> </p>
 
-- 📝 My Website [hhnios.site](https://hhnios.site)
+- 📝 My website[hole30601.github.io](https://hole30601.github.io)
 
 - 📫 Contact me via email **nguyentanghoangok@gmail.com**
 <p align="left">
@@ -16,6 +16,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username= hole30601&show_icons=true&locale=en&layout=compact" alt="hole30601" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=weanshhn&show_icons=true&locale=en" alt="hole30601" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hole30601&show_icons=true&locale=en" alt="hole30601" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=weanshhn&" alt="hole30601" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hole30601&" alt="hole30601" /></p>
